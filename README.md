@@ -1,26 +1,76 @@
-<h1 align="center">Hi 👋, I'm Abhishek Dayashankar Gupta</h1>
-<h3 align="center">Aspiring Full Stack Web Developer</h3>
+<h1 align="center">Hey, I'm Abhishek 👋</h1>
+<h3 align="center">Full Stack Web Developer | JavaScript Lover | MERN Stack Engineer</h3>
 
-- 🌱 I’m currently learning **Full Stack MERN Development**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Node, Express, MongoDB**
-
-- 📫 How to reach me **abhigupta3985@gmail.com**
-
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6876cb10ceeb84e776a50bd1](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6876cb10ceeb84e776a50bd1)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhishek-d-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-d-gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/abhigupta3985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhigupta3985" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhigupta3985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhigupta3985" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:abhigupta3985@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/abhishek-d-gupta">💼 LinkedIn</a> •
+  <a href="https://leetcode.com/abhigupta3985">🏁 LeetCode</a> •
+  <a href="https://github.com/abhigupta3985">🌐 GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhigupta3985&show_icons=true&locale=en&layout=compact" alt="abhigupta3985" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhigupta3985&show_icons=true&locale=en" alt="abhigupta3985" /></p>
+I'm a self-driven developer who made a bold transition from academia (Mathematics) to tech. After earning a BSc and MSc in Mathematics, I trained intensively at Masai School to become a full stack web developer. I bring logical problem-solving, analytical thinking, and a love for clean code into every project.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigupta3985&" alt="abhigupta3985" /></p>
+- 🎓 MSc in Mathematics | Pune, India  
+- 🚀 Trained in Full Stack MERN Development at Masai School  
+- 🔭 Currently building: Real-world full stack projects & APIs  
+- 📚 Learning: TypeScript, Next.js, MySQL  
+- 💡 Goal: Become an SDE and build scalable, meaningful tech  
+- 📄 [View My Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6876cb10ceeb84e776a50bd1)  
+
+---
+
+---
+
+### 📌 Highlight Projects
+
+#### 🛒 E-Commerce Clone | MERN Stack
+Full-featured online store with authentication, product listings, cart, and payment workflow.  
+> [GitHub](#) • [Live Demo](#)
+
+#### ✍️ Blog App | MERN Stack
+Create, edit, and manage blog posts with full CRUD functionality and Markdown support.  
+> [GitHub](#) • [Live Demo](#)
+
+#### 🔐 Auth System | Node.js + JWT
+Backend-only project with secure registration, login, and route protection using JWT.  
+> [GitHub](#) • [API Docs](#)
+
+> 🔎 More on my [GitHub Repos](https://github.com/abhigupta3985?tab=repositories)
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhigupta3985&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhigupta3985&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhigupta3985&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+- 🎯 Participated in a 48hr Hackathon at Masai School — built a functional team project under tight deadlines  
+- 💡 Completed a rigorous full-time developer program at Masai School (~1200+ hours of coding)  
+- 🧠 Solved 100+ DSA problems across platforms  
+
+---
+
+### 📫 Let’s Connect
+
+I'm actively looking for opportunities as a **Full Stack Developer** or **SDE**. Let's connect and create something impactful:
+
+- 📧 [abhigupta3985@gmail.com](mailto:abhigupta3985@gmail.com)  
+- 💼 [linkedin.com/in/abhishek-d-gupta](https://linkedin.com/in/abhishek-d-gupta)  
+
+---
+
+<sub>Built with Markdown • Driven by coffee ☕ • Inspired by clean code and continuous learning</sub>
+
+
+
