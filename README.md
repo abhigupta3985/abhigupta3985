@@ -62,7 +62,7 @@
 ### ⚙ Algorithm Visualizer  | HTML + CSS + JavaScript
 > Animated visualization of DSA algorithms using JavaScript.
  
-🔗 [GitHub](https://github.com/abhigupta3985/Algorithm-Visualizer) • 🔴 [Deployed Link](https://algovisiondev.netlify.app/)
+🔗 [GitHub](https://github.com/yesutkarsh/B41_WEB_005_Responsive-Rebels) • 🔴 [Deployed Link](https://algovisiondev.netlify.app/)
 
 👉 [Explore More Projects](https://github.com/abhigupta3985?tab=repositories)
 
