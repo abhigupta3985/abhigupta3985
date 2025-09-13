@@ -49,20 +49,21 @@
 
 🔗 [GitHub](https://github.com/abhigupta3985/SmartInventory_App) • 🔴 [Deployed Link](https://smart-inventory-2025.netlify.app/)
 
-### 🩺 Medicare - Online Pharmacy Platform | React.js + Tailwind CSS + Firebase +TypeScript
-> Real time product search with advanced filters, interactive cart functionality & a multi-step checkout process.
-
-🔗 [GitHub](https://github.com/abhigupta3985/Medicare) • 🔴 [Deployed Link](https://medicare-onlinepharmacy.netlify.app/)
-
 ### 📊 Booking.Pro (Travel and Booking Platform) | HTML + CSS + JavaScript + Firebase
 > Fully Responsive and Modern User Interface, Implemented user authentication(signup & login) using Firebase.
 
-🔗 [GitHub](https://github.com/abhigupta3985/Booking.Pro) • 🔴 [Deployed Link](https://bookingpro.netlify.app/)
+🔗 [GitHub](https://github.com/jasminekeshari/Booking-Pro) • 🔴 [Deployed Link](https://bookingpro.netlify.app/)
 
 ### ⚙ Algorithm Visualizer  | HTML + CSS + JavaScript
 > Animated visualization of DSA algorithms using JavaScript.
  
 🔗 [GitHub](https://github.com/yesutkarsh/B41_WEB_005_Responsive-Rebels) • 🔴 [Deployed Link](https://algovisiondev.netlify.app/)
+
+### 🩺 Medicare - Online Pharmacy Platform | React.js + Tailwind CSS + Firebase +TypeScript
+> Real time product search with advanced filters, interactive cart functionality & a multi-step checkout process.
+
+🔗 [GitHub](https://github.com/abhigupta3985/Medicare) • 🔴 [Deployed Link](https://medicare-onlinepharmacy.netlify.app/)
+
 
 👉 [Explore More Projects](https://github.com/abhigupta3985?tab=repositories)
 
