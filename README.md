@@ -46,7 +46,7 @@
 
 | Project | Tech | Highlights | Links |
 |---------|------|------------|-------|
-| **SmartInventory App** | React.js · Chakra UI · Firebase | Role-based access, QR code generation, dashboard analytics, responsive UI | [GitHub](https://github.com/abhigupta3985/SmartInventory_App) · [Live](https://smart-inventory-2025.netlify.app/) |
+| **SmartInventory App** | React.js · Chakra UI · Firebase | Role-based access, QR code generation, dashboard analytics, responsive UI | [GitHub](https://github.com/abhigupta3985/Smart-Inventory) · [Live](https://smart-inventory-2025.netlify.app/) |
 | **Booking.Pro (Travel Platform)** | HTML · CSS · JS · Firebase | Responsive UI, booking for hotels/flights/cars/packages, Firebase auth | [GitHub](https://github.com/jasminekeshari/Booking-Pro) · [Live](https://bookingpro.netlify.app/) |
 | **Algorithm Visualizer** | HTML · CSS · JS | Animated visualization of sorting algorithms, educational tool | [GitHub](https://github.com/yesutkarsh/B41_WEB_005_Responsive-Rebels) · [Live](https://algovisiondev.netlify.app/) |
 | **Medicare (Online Pharmacy)** | React.js · Tailwind · Firebase · TypeScript | Real-time product search, interactive cart, multi-step checkout | [GitHub](https://github.com/abhigupta3985/Medicare) · [Live](https://medicare-onlinepharmacy.netlify.app/) |
