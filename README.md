@@ -34,7 +34,7 @@ I’m driven by learning, improvement, and building things that actually help pe
 📌 Currently strengthening my MERN stack skills — building React apps, improving Node.js APIs, and learning deployment best practices.  
 💼 Aspiring Software Developer eager to build impactful, production-ready products  
 
-📄 [View My Resume](https://drive.google.com/file/d/1m-1gm5SUAR2heOftU3Z3C_A-rcw8oqvx/view?usp=sharing)
+📄 [View My Resume](https://drive.google.com/file/d/1i1py_Hfr5d7nHYCufX0-pvjWiEEQ-pzd/view?usp=sharing)
 
 ---
 
