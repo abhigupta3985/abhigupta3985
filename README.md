@@ -77,12 +77,12 @@ I’m driven by learning, improvement, and building things that actually help pe
 
 ---
 
-## 📬 Connect With Me  
+## 🌐 Let's Connect!
+🔗 Portfolio: https://abhigupta3985.github.io/  
+💼 LinkedIn: https://linkedin.com/in/abhishek-d-gupta  
+💻 GitHub: https://github.com/abhigupta3985  
+📧 Email: abhigupta3985@gmail.com  
 
-Feel free to reach out — always open to collaborations and opportunities!
-
-- 📧 abhigupta3985@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/abhishek-d-gupta)  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=35A2F7&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Amazing+Together!;Learning+Never+Stops+🚀;" alt="Typing SVG" />
