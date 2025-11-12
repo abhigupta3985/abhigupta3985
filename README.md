@@ -85,7 +85,7 @@ I’m driven by learning, improvement, and building things that actually help pe
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=35A2F7&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Amazing+Together!;Learning+Never+Stops+🚀;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=35A2F7&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Amazing+Together!;Learning+Never+Stops+🚀;" alt="Typing SVG" />
 </p>
 
 <sub><p align="center">Built with ❤ using Markdown • Fueled by curiosity • Obsessed with clean code ✨</p></sub>
